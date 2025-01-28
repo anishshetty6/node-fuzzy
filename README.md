@@ -1,1 +1,2 @@
 # node-fuzzy
+nice
