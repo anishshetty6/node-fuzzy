@@ -52,7 +52,7 @@ console.log(bestMatch);
 
 #### Similarity Ratio
 
-```http
+```
   similarityRatio(a, b)
 ```
 - Description: Calculates the similarity ratio (in percentage) between two strings.
@@ -69,7 +69,7 @@ console.log(bestMatch);
 
 #### Find Best Match
 
-```http
+```
   findBestMatch(target, candidates)
 ```
 - Description: Finds the closest match to a target string from a list of candidates.
