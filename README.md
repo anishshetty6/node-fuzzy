@@ -1,5 +1,5 @@
 
-# Fuzzy Match
+# Fuzzy Ripoff
 
 A lightweight JavaScript library for fuzzy string matching, helping you find the closest match or calculate similarity scores between strings. Perfect for search engines, autocomplete, and text matching tasks.
 
@@ -17,7 +17,7 @@ A lightweight JavaScript library for fuzzy string matching, helping you find the
 Install my-project with npm
 
 ```bash
-  npm install fuzzy-match
+  npm install fuzzy-ripoff
 ```
     
 ## Usage
@@ -25,7 +25,7 @@ Install my-project with npm
 Import the library:
 
 ```bash
- const { similarityRatio, findBestMatch } = require('fuzzy-match');
+ const { similarityRatio, findBestMatch } = require('fuzzy-ripoff');
 
 ```
 Calculate Similarity Ratio:
