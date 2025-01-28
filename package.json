@@ -1,5 +1,5 @@
 {
-  "name": "fuzzy-match",
+  "name": "fuzzy-matcher",
   "version": "1.0.0",
   "description": "Compute similarity between two strings and match a string against a list and return the closest matches",
   "main": "index.js",
